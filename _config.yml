@@ -1,0 +1,13 @@
+name: KhulnaSoft Media contains kit
+title: KhulnaSoft Media Contains kit
+description: >-
+  Logos and MediaKit for LF AI & KhulnaSoft Lab and it's hosted projects
+
+# Settings
+github_repo: https://github.com/khulnasoft-lab/mediakit
+
+plugins:
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-redirect-from
